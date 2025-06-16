@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glossary-term {
+  background-color: #e0f7fa;
+  border-bottom: 1px dashed #4dd0e1;
+  cursor: help;
+  position: relative;
+}
+
+.glossary-term:hover {
+  background-color: #b2ebf2;
+}
+
+.glossary-tooltip {
+  position: absolute;
+  background: white;
+  padding: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 1000;
+  max-width: 300px;
+}
+
+.bg-yellow-200 {
+  background-color: #fefcbf;
+}
+
+.underline {
+  text-decoration: underline;
+}
