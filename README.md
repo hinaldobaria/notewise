@@ -89,3 +89,37 @@ This project demonstrates advanced features including a **custom rich text edito
 📄 package.json       # Project metadata and dependencies
 📄 vite.config.js     # Vite configuration
 📄 index.html         # Main HTML entry point
+```
+
+---
+
+## 🧪 How to Run Locally
+
+1. **Install dependencies**
+```bash
+npm install
+```
+
+2. **Create `.env` file** and add your Gemini API key
+```
+VITE_GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+3. **Start the development server**
+```bash
+npm run dev
+```
+
+---
+
+## ✅ Final Notes
+
+- 💯 All core and bonus features fully implemented
+- ⚙️ No use of external rich text editor libraries
+- 📱 Fully responsive design tested across devices
+- 🔐 AI key is secured using environment variables
+- 🧠 Built with scalability and modularity in mind
+
+---
+
+> Thank you for the opportunity to showcase this solution. I hope you enjoy exploring NoteWise as much as I enjoyed building it!
