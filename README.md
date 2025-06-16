@@ -123,3 +123,10 @@ npm run dev
 ---
 
 > Thank you for the opportunity to showcase this solution. I hope you enjoy exploring NoteWise as much as I enjoyed building it!
+
+---
+
+## 🌐 Live Project
+
+You can access the deployed project here:  
+🔗 [NoteWise Live on Vercel](https://notewise-eta.vercel.app/)
