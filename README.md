@@ -7,6 +7,13 @@ This project demonstrates advanced features including a **custom rich text edito
 
 ---
 
+## 🌐 Live Project
+
+You can access the deployed project here:  
+🔗 [NoteWise Live on Vercel](https://notewise-eta.vercel.app/)
+
+---
+
 ## 📌 What I Have Built
 
 ### 📝 Custom Rich Text Editor
